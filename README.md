@@ -8,7 +8,7 @@
 
 
 ###
-<h1 style="text-bold">Languages that i know</h1>
+<h1 style="text-bold">Languages/tools that i work with</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -37,7 +37,7 @@
 </div>
 
 ###
-</br>
+
 </br>
 <h1>Social Media links</h1>
 
@@ -61,9 +61,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
-<break></break>
-<break></break>
-<break></break>
+
+</br>
+</br>
 
 
 <div align="left">
