@@ -38,7 +38,6 @@
 
 ###
 
-</br>
 <h1>Social Media links</h1>
 
 <div align="left">
@@ -62,7 +61,6 @@
   </a>
 </div>
 
-</br>
 </br>
 
 <h1>Last Song that i played</h1>
