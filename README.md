@@ -8,6 +8,7 @@
 
 
 ###
+<h1 style="text-bold">Languages that i know</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -36,6 +37,9 @@
 </div>
 
 ###
+</br>
+</br>
+<h1>Social Media links</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/suyash-sahu-3b5813278/" target="_blank">
