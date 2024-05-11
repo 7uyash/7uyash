@@ -63,7 +63,7 @@
 
 </br>
 
-<h1>Last Song that i played</h1>
+<h1>Last Song i played</h1>
 <div align="left">
   <a href="https://open.spotify.com/user/31ac4l7tg6lderrmlorsdqy45tuy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ac4l7tg6lderrmlorsdqy45tuy&count=1" alt="Spotify recently played"  />
