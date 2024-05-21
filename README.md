@@ -63,6 +63,8 @@
 
 
 </br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/7uyash.png" alt="TryHackMe">
+</br>
 
 <h1>Last Song i played</h1>
 <div align="left">
